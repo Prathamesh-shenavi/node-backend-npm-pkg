@@ -6,6 +6,7 @@
   "bin": {
     "backend-folders": "index.js"
   },
+  "keywords": ["backend","backend-folders","backend-structure","node backend"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
