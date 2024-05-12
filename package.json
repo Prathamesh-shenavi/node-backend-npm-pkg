@@ -1,0 +1,14 @@
+{
+  "name": "backend-structure",
+  "version": "1.0.0",
+  "description": "add Folders of Backend dev",
+  "main": "index.js",
+  "bin": {
+    "backend-structure": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prathamesh Shenavi",
+  "license": "ISC"
+}
