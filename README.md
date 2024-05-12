@@ -4,8 +4,8 @@ Package for basic folder structure for Backend
 
 ## How to us it ?
 
-- npm i backend-structure
-- npx backend-structure
+- npm i backend-folders
+- npx backend-folders
 
 # Hi, I'm Prathamesh Shenavi! 👋
 
