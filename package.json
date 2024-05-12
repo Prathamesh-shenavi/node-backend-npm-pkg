@@ -1,12 +1,21 @@
 {
   "name": "backend-folders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "add Folders of Backend dev",
   "main": "index.js",
   "bin": {
     "backend-folders": "index.js"
   },
-  "keywords": ["backend","backend-folders","backend-structure","node backend"],
+  "keywords": [
+    "backend",
+    "backend-folders",
+    "backend-structure",
+    "node backend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathamesh-shenavi/node-backend-npm-pkg.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
